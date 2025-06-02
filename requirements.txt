@@ -12,4 +12,5 @@ gradio==5.20.1
 loguru==0.7.3
 nest_asyncio==1.6.0
 pydantic==2.10.6
+wolframalpha>=5.0.0
 
